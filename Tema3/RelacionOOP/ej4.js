@@ -65,4 +65,4 @@ alumno = {
    surname: 'Mbappe'
 
 }
-var miIns = new Instructor(datos) Enviado desde mi iPhone
+var miIns = new Instructor(datos) 
