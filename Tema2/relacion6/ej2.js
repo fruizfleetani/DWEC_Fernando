@@ -30,6 +30,6 @@ console.log(document.links.length)
 
 // f)
 
-// alert(document.title); 
-// document.title = "Ejercicio hecho con exito";
-// alert(document.title);
+alert(document.title); 
+document.title = "Ejercicio hecho con exito";
+alert(document.title);
