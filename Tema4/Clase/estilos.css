@@ -1,0 +1,39 @@
+.texto{
+    position: absolute;
+    top: 10px;
+    left:810px;
+    font-family: Neucha, Arial, sans serif;
+    font-size:21px;
+}
+
+#miimagen{
+    position: absolute;
+    top: 10px;
+    left:400px;
+}
+
+
+#dcha{
+    position: absolute;
+    top: 240px;
+    left:805px;
+    opacity: 0.25;
+}
+
+#dcha:hover{
+    opacity: 1;
+}
+
+#izq{
+    position: absolute;
+    top: 240px;
+    left:325px;
+    opacity: 0.25;
+}
+
+#izq:hover{
+    opacity: 1;
+}
+
+
+
